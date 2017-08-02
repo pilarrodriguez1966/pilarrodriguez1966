@@ -1,0 +1,14 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    font-family: sans-serif;
+    background-color: beige;
+    color: darkslategray;
+}
+.container{
+    
+    width: 90%;
+    margin: 0 auto;
+}
