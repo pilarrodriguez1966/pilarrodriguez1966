@@ -12,3 +12,43 @@ body{
     width: 90%;
     margin: 0 auto;
 }
+ul.trabajos{
+    list-style-type: none;
+    
+    
+}
+.trabajos li{
+    background-color: limegreen;
+    
+    padding: 1em;
+    margin-bottom: 1em;
+}
+.trabajos li:hover{
+    background-color: blueviolet;
+}
+.trabajos li a{
+    color:white;
+    text-decoration: none;
+    
+}
+h1{
+    text-align: center;
+    font-family: sans-serif;
+    width: 100%;
+    font-variant: small-caps;
+       
+}
+h2{
+    margin-bottom: 1em;
+    margin-top: 1em;
+    background-color: blueviolet;
+    color:white;
+    padding: .5em;
+    text-transform: uppercase;
+    border-radius: 1em;
+    box-shadow: 5px 5px 20px black;
+}
+footer{
+  border-top: solid;
+    padding-top: 1em;
+}
