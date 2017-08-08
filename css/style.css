@@ -52,3 +52,28 @@ footer{
   border-top: solid;
     padding-top: 1em;
 }
+nav{
+    position: fixed;
+    top: 0;
+    right: 0;
+
+    
+
+    
+    
+}
+nav a{
+    color: olive;
+}
+
+    
+nav ul{
+    list-style: none;
+}
+nav  a{
+    
+    font-size: 40px;
+    background-color: azure;
+    margin-bottom: 0.5em;
+    
+}
